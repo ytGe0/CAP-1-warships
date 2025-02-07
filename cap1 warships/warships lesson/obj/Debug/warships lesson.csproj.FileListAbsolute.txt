@@ -1,0 +1,7 @@
+H:\cap1 warships\warships lesson\bin\Debug\warships lesson.exe.config
+H:\cap1 warships\warships lesson\bin\Debug\warships lesson.exe
+H:\cap1 warships\warships lesson\bin\Debug\warships lesson.pdb
+H:\cap1 warships\warships lesson\obj\Debug\warships lesson.csproj.AssemblyReference.cache
+H:\cap1 warships\warships lesson\obj\Debug\warships lesson.csproj.CoreCompileInputs.cache
+H:\cap1 warships\warships lesson\obj\Debug\warships lesson.exe
+H:\cap1 warships\warships lesson\obj\Debug\warships lesson.pdb
