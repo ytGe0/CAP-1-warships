@@ -1,7 +1,0 @@
-H:\cap1 warships\cap1 warships\bin\Debug\cap1 warships.exe.config
-H:\cap1 warships\cap1 warships\bin\Debug\cap1 warships.exe
-H:\cap1 warships\cap1 warships\bin\Debug\cap1 warships.pdb
-H:\cap1 warships\cap1 warships\obj\Debug\cap1 warships.csproj.AssemblyReference.cache
-H:\cap1 warships\cap1 warships\obj\Debug\cap1 warships.csproj.CoreCompileInputs.cache
-H:\cap1 warships\cap1 warships\obj\Debug\cap1 warships.exe
-H:\cap1 warships\cap1 warships\obj\Debug\cap1 warships.pdb
