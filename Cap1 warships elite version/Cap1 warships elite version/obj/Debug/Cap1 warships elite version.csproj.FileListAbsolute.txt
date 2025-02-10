@@ -1,0 +1,7 @@
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\bin\Debug\Cap1 warships elite version.exe.config
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\bin\Debug\Cap1 warships elite version.exe
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\bin\Debug\Cap1 warships elite version.pdb
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\obj\Debug\Cap1 warships elite version.csproj.AssemblyReference.cache
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\obj\Debug\Cap1 warships elite version.csproj.CoreCompileInputs.cache
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\obj\Debug\Cap1 warships elite version.exe
+C:\Users\George m\source\repos\Cap1 warships elite version\Cap1 warships elite version\obj\Debug\Cap1 warships elite version.pdb
